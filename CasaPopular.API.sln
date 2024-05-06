@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasaPopular.API", "CasaPopular.API\CasaPopular.API.csproj", "{67BB9E0D-69CA-46FD-9495-35699F2DA4AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaPopular.Tests", "CasaPopular.Tests\CasaPopular.Tests.csproj", "{FBBFC1F8-48DD-417E-B986-D7B65968F04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67BB9E0D-69CA-46FD-9495-35699F2DA4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BB9E0D-69CA-46FD-9495-35699F2DA4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BB9E0D-69CA-46FD-9495-35699F2DA4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BB9E0D-69CA-46FD-9495-35699F2DA4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBFC1F8-48DD-417E-B986-D7B65968F04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBFC1F8-48DD-417E-B986-D7B65968F04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBFC1F8-48DD-417E-B986-D7B65968F04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBFC1F8-48DD-417E-B986-D7B65968F04A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC526681-6CE6-4ABA-9611-D73446B27BDC}
+	EndGlobalSection
+EndGlobal
